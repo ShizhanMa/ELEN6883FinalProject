@@ -1,6 +1,16 @@
 # ELEN6883 Final Project – Seaport Smart Contract Data Analysis
 This is the final project for Columbia University's course **ELEN E6883: Blockchain**.
 
+## 👥 Team Members
+
+| Name         | UNI     |
+|--------------|---------|
+| Shizhan Ma   | sm5754  |
+| Linlin Fang  | lf2838  |
+| Donglin Li   | dl3745  |
+| Yu Pan       | yp2742  |
+
+
 ## 🔍 Project Overview
 
 This project focuses on extracting and analyzing on-chain transaction data from the [Seaport smart contract](https://etherscan.io/address/0x00000000006c3852cbEf3e08E8dF289169EdE581), which powers the OpenSea NFT marketplace. All datasets generated are derived directly from Seaport’s event logs.
